@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ozsolomon
 - 👀 I’m interested in bioinformatics
-- 🌱 I’m currently working in Plantae Bioscience
+- 🌱 I’m currently working in multiomics unit at the Technion
 
 
 <!---
